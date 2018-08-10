@@ -1,0 +1,11 @@
+{
+  "name": "tdd-code-kata2",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-phpspec": "^0.5.5",
+    "lodash": "^4.17.10"
+  }
+}
